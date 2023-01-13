@@ -12,7 +12,7 @@ kek
 In the context of my work as internal auditor in the financial sector, I've written several many scripts incorporating the following:
 - folder drilldowns
 - automatically converting .msg files to pdf files
-- fusioning hundreds of files classed by date into single document to allow to perform data analysis
+- fusioning hundreds of files classed by date into a single document to allow data analysis
 
 ## Other
 
