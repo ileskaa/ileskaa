@@ -5,6 +5,8 @@ You'll find below a list of project I've worked on.
 ## Web development
 bla
 
+## Python
+kek
 <!--
 **ileskaa/ileskaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
