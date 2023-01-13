@@ -8,9 +8,16 @@ bla
 ## Python
 kek
 
-## SQL
+## VBA
+In the context of my work as internal auditor in the financial sector, I've written several many scripts incorporating the following:
+- folder drilldowns
+- automatically converting .msg files to pdf files
+- fusioning hundreds of files classed by date into single document to allow to perform data analysis
 
-# test
+## Other
+
+
+# With one hashtag (example)
 
 <!--
 **ileskaa/ileskaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
