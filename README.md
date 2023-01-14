@@ -21,7 +21,7 @@ My threehouse profile:
 - what I'm currently learning: TensorFlow for neural networks
    
 #### Certifications:
-I successfuly passed the IBM data science professional certificate, which can be viewed on the "Licences and certifications" section of my LinkedIn profile
+I successfuly passed the IBM data science professional certificate, which can be viewed on the "Licences and certifications" section of my LinkedIn profile: https://fi.linkedin.com/in/akseli-ingervo
 ## VBA
 In the context of my work as internal auditor in the financial sector, I've written several many scripts incorporating the following:
 - folder drilldowns
