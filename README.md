@@ -8,7 +8,9 @@ Page link: https://ileskaa.github.io/advent-calendar/
 Link to the Github repository: https://github.com/ileskaa/advent-calendar
    
 I contributed to the creation of the webpage of the Polanie polish folk dance group, of which I was a member while living in Luxembourg.   
-https://polanie.lu/   
+Page link: https://polanie.lu/   
+   
+Line chart
    
 Work in progress: a website concerning the evolution of programming languages
    
