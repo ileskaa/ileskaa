@@ -3,8 +3,12 @@
 You'll find below a list of project I've worked on.
 
 ## Web development
-bla
-https://polanie.lu/
+For Christmas 2021, I created an online advent calendar for a group of friends. The idea was to share a little something every day.   
+https://ileskaa.github.io/advent-calendar/   
+   
+https://polanie.lu/   
+   
+Work in progress: a website concerning the evolution of programming languages
 
 ## Python
 kek
