@@ -4,14 +4,20 @@ You'll find below a list of project I've worked on.
 
 ## Web development
 For Christmas 2021, I created an online advent calendar for a group of friends. The idea was to share a little something every day.   
-https://ileskaa.github.io/advent-calendar/   
+Page link: https://ileskaa.github.io/advent-calendar/   
+Link to the Github repository: https://github.com/ileskaa/advent-calendar
    
+I contributed to the creation of the webpage of the polish folk dance group
 https://polanie.lu/   
    
 Work in progress: a website concerning the evolution of programming languages
-
+   
+My threehouse profile: 
 ## Python
-kek
+Librairies I've used the most:
+- pandas and numpy for manipulating data
+- Matplotlib and Seaborn for data vizualisation
+- scikit-learn
 
 ## VBA
 In the context of my work as internal auditor in the financial sector, I've written several many scripts incorporating the following:
