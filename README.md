@@ -1,4 +1,4 @@
-### Welcome to my Github!
+### Welcome to my GitHub!
 I didn't learn programming at school; I taught myself to do it. That how much I love coding.
    
 Let's dive right in. I currently speak the following languages...
@@ -16,8 +16,11 @@ You'll find below a list of projects I've worked on.
 #### Projects I've worked on:
 - For Christmas 2021, I created an online advent calendar for a group of friends. The idea was to share a little something every day.   
    - Page link: https://ileskaa.github.io/advent-calendar/   
-   - Link to the Github repository: https://github.com/ileskaa/advent-calendar
-- I created a flashcard app
+   - Link to the GitHub repository: https://github.com/ileskaa/advent-calendar
+- I created a flashcard app that can be used to study programming concepts. Node.js, Express, and Pug were used in the process.
+   - Page link: https://computing-flashcards.onrender.com/
+   - Github repo: https://github.com/ileskaa/computing-flashcards
+- For christmas 2022, I wrote a secret santa app for the service I worked in 
 - I contributed to the creation of the webpage of the Polanie polish folk dance group, of which I was a member while living in Luxembourg.   
    - Page link: https://polanie.lu/   
    
