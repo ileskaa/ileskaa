@@ -7,7 +7,7 @@ For Christmas 2021, I created an online advent calendar for a group of friends. 
 Page link: https://ileskaa.github.io/advent-calendar/   
 Link to the Github repository: https://github.com/ileskaa/advent-calendar
    
-I contributed to the creation of the webpage of the polish folk dance group
+I contributed to the creation of the webpage of the Polanie polish folk dance group, of which I was a member while living in Luxembourg.   
 https://polanie.lu/   
    
 Work in progress: a website concerning the evolution of programming languages
@@ -20,7 +20,8 @@ My threehouse profile:
 - scikit-learn for linear regressions, random forests, k-nearest neighbors, and support vector machines
 - what I'm currently learning: TensorFlow for neural networks
    
-#### Certifications
+#### Certifications:
+I successfuly passed the IBM data science professional certificate, which can be viewed on the "Licences and certifications" section of my LinkedIn profile
 ## VBA
 In the context of my work as internal auditor in the financial sector, I've written several many scripts incorporating the following:
 - folder drilldowns
