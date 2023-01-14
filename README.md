@@ -1,14 +1,14 @@
 ### Welcome to my Github!
 I didn't learn programming at school; I taught myself to do it. That how much I love coding.
    
-Let's dive right in. I currently speak the following languages:
+Let's dive right in. I currently speak the following languages...
 - Python
 - HTML, CSS, and Javascript
 - PHP
 - VBA
 - SQL
 
-And I'm always eager to learn new ones.
+...and I'm always eager to learn new ones.
    
 You'll find below a list of projects I've worked on.
 
@@ -26,7 +26,7 @@ Line chart
 Work in progress: a website concerning the evolution of programming languages
    
 #### Other
-My threehouse profile: 
+My threehouse profile: https://teamtreehouse.com/profiles/akseliingervo
 ## Python
 #### Librairies I've used the most:
 - Pandas and Numpy for data manipulation
@@ -37,7 +37,7 @@ My threehouse profile:
 #### Certifications:
 I successfuly passed the IBM data science professional certificate, which can be viewed on the "Licences and certifications" section of my LinkedIn profile: https://fi.linkedin.com/in/akseli-ingervo
 ## VBA
-In the context of my work as internal auditor in the financial sector, I've written several many scripts incorporating the following:
+In the context of my work as internal auditor in the financial sector, I've written many scripts incorporating the following concepts:
 - folder drilldowns
 - automatically converting .msg files to pdf files
 - fusioning hundreds of files classed by date into a single document to allow data analysis
