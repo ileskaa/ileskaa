@@ -15,9 +15,10 @@ Work in progress: a website concerning the evolution of programming languages
 My threehouse profile: 
 ## Python
 Librairies I've used the most:
-- pandas and numpy for manipulating data
-- Matplotlib and Seaborn for data vizualisation
-- scikit-learn
+- Pandas and Numpy for data manipulation
+- Matplotlib and Seaborn for data visualization
+- scikit-learn for linear regressions, random forests, k-nearest neighbors, support vector machines
+- what I'm currently learning: TensorFlow for neural networks
 
 ## VBA
 In the context of my work as internal auditor in the financial sector, I've written several many scripts incorporating the following:
