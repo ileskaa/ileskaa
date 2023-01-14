@@ -7,16 +7,15 @@ You'll find below a list of project I've worked on.
 - For Christmas 2021, I created an online advent calendar for a group of friends. The idea was to share a little something every day.   
    - Page link: https://ileskaa.github.io/advent-calendar/   
    - Link to the Github repository: https://github.com/ileskaa/advent-calendar
-  - test
-    - t
-   
-I contributed to the creation of the webpage of the Polanie polish folk dance group, of which I was a member while living in Luxembourg.   
-Page link: https://polanie.lu/   
+- I created a flashcar  
+- I contributed to the creation of the webpage of the Polanie polish folk dance group, of which I was a member while living in Luxembourg.   
+   - Page link: https://polanie.lu/   
    
 Line chart
    
 Work in progress: a website concerning the evolution of programming languages
    
+#### Other
 My threehouse profile: 
 ## Python
 #### Librairies I've used the most:
