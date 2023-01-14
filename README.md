@@ -1,13 +1,23 @@
 ### Welcome to my Github!
+I didn't learn programming at school; I taught myself to do it. That how much I love coding.
+   
+Let's dive right in. I currently speak the following languages:
+- Python
+- HTML, CSS, and Javascript
+- PHP
+- VBA
+- SQL
 
-You'll find below a list of project I've worked on.
+And I'm always eager to learn new ones.
+   
+You'll find below a list of projects I've worked on.
 
 ## Web development
 #### Projects I've worked on:
 - For Christmas 2021, I created an online advent calendar for a group of friends. The idea was to share a little something every day.   
    - Page link: https://ileskaa.github.io/advent-calendar/   
    - Link to the Github repository: https://github.com/ileskaa/advent-calendar
-- I created a flashcar  
+- I created a flashcard app
 - I contributed to the creation of the webpage of the Polanie polish folk dance group, of which I was a member while living in Luxembourg.   
    - Page link: https://polanie.lu/   
    
@@ -33,7 +43,7 @@ In the context of my work as internal auditor in the financial sector, I've writ
 - fusioning hundreds of files classed by date into a single document to allow data analysis
 
 ## Other
-
+My CodinGame profile: https://www.codingame.com/profile/b7857c36b0f22193e90aa4a5c9e5079f9969774
 
 # With one hashtag (example)
 
