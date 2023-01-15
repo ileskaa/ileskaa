@@ -1,7 +1,7 @@
 ### Welcome to my GitHub!
 I didn't learn programming at school; I taught myself to do it. That how much I love coding.
    
-Let's dive right in. I currently speak the following languages...
+I currently speak the following languages...
 - Python
 - HTML, CSS, and Javascript
 - PHP
@@ -20,7 +20,7 @@ You'll find below a list of projects I've worked on.
 - I created a flashcard app that can be used to study programming concepts. Node.js, Express, and Pug were used in the process.
    - Page link: https://computing-flashcards.onrender.com/
    - Github repo: https://github.com/ileskaa/computing-flashcards
-- For christmas 2022, I wrote a secret santa app for the service I worked in 
+- For christmas 2022, I wrote a secret santa app for my colleagues. The idea is that everyone will randomly draw a person to whom they'll have to offer a gift while keeping their identity secret. For this project, I didn't use Express since I wanted to understand better what's happening behind the scenes. I therefore coded the backend using solely Node.js
 - I contributed to the creation of the webpage of the Polanie polish folk dance group, of which I was a member while living in Luxembourg.   
    - Page link: https://polanie.lu/   
    
