@@ -25,7 +25,7 @@ You'll find below a list of projects I've worked on.
    - GitHub repo: https://github.com/ileskaa/secret-santa
 - I contributed to the creation of the webpage of the Polanie polish folk dance group, of which I was a member while living in Luxembourg.   
    - Page link: https://polanie.lu
-- Work in progress: a website about the evolution of programming languages built using PHP and PostgreSQL
+- Work in progress: a website about the evolution of programming languages, built using PHP and PostgreSQL
    - GitHub repo: https://github.com/ileskaa/programming-language-history
    
 #### Other
@@ -40,15 +40,15 @@ My threehouse profile: https://teamtreehouse.com/profiles/akseliingervo
 #### Certifications:
 I successfuly passed the IBM data science professional certificate, which can be viewed on the "Licences and certifications" section of my LinkedIn profile: https://fi.linkedin.com/in/akseli-ingervo
 ## VBA
-In the context of my work as internal auditor in the financial sector, I've written many scripts incorporating the following concepts:
+In the context of my work as internal auditor in the financial sector, I've written many macros, including the following:
 - folder drilldowns
 - automatically converting .msg files to pdf files
 - fusioning hundreds of files classed by date into a single document to allow data analysis
+- converting PDF files to .docx, and then extracting tabular data
+- updating Excel workbooks based on CSV files
 
 ## Other
 My CodinGame profile: https://www.codingame.com/profile/b7857c36b0f22193e90aa4a5c9e5079f9969774
-
-# With one hashtag (example)
 
 <!--
 **ileskaa/ileskaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
