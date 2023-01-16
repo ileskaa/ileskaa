@@ -1,5 +1,5 @@
 ### Welcome to my GitHub!
-I didn't learn programming at school; I taught myself to do it. That how much I love coding.
+I didn't learn programming at school; I taught myself to do it. That how much I enjoy coding.
    
 I currently speak the following languages:
 - Python
@@ -24,11 +24,9 @@ You'll find below a list of projects I've worked on.
    - Page link: https://secretsantaigad.com
    - GitHub repo: https://github.com/ileskaa/secret-santa
 - I contributed to the creation of the webpage of the Polanie polish folk dance group, of which I was a member while living in Luxembourg.   
-   - Page link: https://polanie.lu   
-   
-Line chart
-   
-Work in progress: a website concerning the evolution of programming languages
+   - Page link: https://polanie.lu
+- Work in progress: a website about the evolution of programming languages built using PHP and PostgreSQL
+   - GitHub repo: https://github.com/ileskaa/programming-language-history
    
 #### Other
 My threehouse profile: https://teamtreehouse.com/profiles/akseliingervo
