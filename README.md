@@ -35,6 +35,7 @@ My threehouse profile: https://teamtreehouse.com/profiles/akseliingervo
 - Pandas and Numpy for data manipulation
 - Matplotlib and Seaborn for data visualization
 - scikit-learn for linear regressions, random forests, k-nearest neighbors, and support vector machines
+- Beautiful Soup for web scraping
 - what I'm currently learning: TensorFlow for neural networks
    
 #### Certifications:
@@ -49,7 +50,7 @@ In the context of my work as internal auditor in the financial sector, I've writ
 - updating Excel workbooks based on CSV files
 
 ## Other
-My CodinGame profile: https://www.codingame.com/profile/b7857c36b0f22193e90aa4a5c9e5079f9969774
+My [CodinGame profile](https://www.codingame.com/profile/b7857c36b0f22193e90aa4a5c9e5079f9969774).
 
 <!--
 **ileskaa/ileskaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
