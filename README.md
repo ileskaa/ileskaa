@@ -1,5 +1,5 @@
 ### Welcome to my GitHub!
-I didn't learn programming at school; I taught myself to do it. That how much I enjoy coding.
+I didn't learn programming at school; I taught myself to do it. That how much I love coding 🧡
    
 I currently speak the following languages:
 - Python
@@ -16,16 +16,16 @@ You'll find below a list of projects I've worked on.
 #### Projects I've worked on:
 - For Christmas 2021, I created an online advent calendar for a group of friends. The idea was to share a little something every day.   
    - Page link: https://ileskaa.github.io/advent-calendar   
-   - Link to the GitHub repository: https://github.com/ileskaa/advent-calendar
+   - GitHub repository link: https://github.com/ileskaa/advent-calendar
 - I created a flashcard app that can be used to study programming concepts. Node.js, Express, and Pug were used in the process.
    - Page link: https://computing-flashcards.onrender.com
    - GitHub repo: https://github.com/ileskaa/computing-flashcards
-- For christmas 2022, I wrote a secret santa app for my colleagues. The idea is that everyone will randomly draw a person to whom they'll have to offer a gift while keeping their identity secret. For this project, I didn't use Express since I wanted to understand better what's happening behind the scenes. I therefore coded the backend using solely Node.js and a Redis database
+- For christmas 2022, I wrote a secret santa app for my colleagues. The idea is that everyone will randomly draw a person to whom they'll have to offer a gift while keeping their identity secret. For this project, I didn't use Express since I wanted to understand better what's happening behind the scenes. I therefore coded the backend using solely Node.js and a Redis database.
    - Page link: https://secretsantaigad.com
    - GitHub repo: https://github.com/ileskaa/secret-santa
 - I contributed to the creation of the webpage of the Polanie polish folk dance group, of which I was a member while living in Luxembourg.   
    - Page link: https://polanie.lu
-- Work in progress: a website about the evolution of programming languages, built using PHP and PostgreSQL
+- Work in progress: a website about the evolution of programming languages, built using PHP and PostgreSQL.
    - GitHub repo: https://github.com/ileskaa/programming-language-history
    
 #### Other
@@ -42,8 +42,9 @@ I successfuly passed the IBM data science professional certificate, which can be
 ## VBA
 In the context of my work as internal auditor in the financial sector, I've written many macros, including the following:
 - folder drilldowns
+   - e.g., a macro to automatically fill a workbook based on 500 job descriptions
 - automatically converting .msg files to pdf files
-- fusioning hundreds of files classed by date into a single document to allow data analysis
+- fusioning hundreds of files classed by date into a single document in order to perform data analysis
 - converting PDF files to .docx, and then extracting tabular data
 - updating Excel workbooks based on CSV files
 
