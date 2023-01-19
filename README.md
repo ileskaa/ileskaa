@@ -49,8 +49,14 @@ In the context of my work as internal auditor in the financial sector, I've writ
 - converting PDF files to .docx, and then extracting tabular data
 - updating Excel workbooks based on CSV files
 
+## Operating systems
+I'm currently working on Windows, but I've used Linux for several years in the past. I've played with several distros, including Ubuntu, Debian, Fedora, and Mint.
+
 ## Other
-My [CodinGame profile](https://www.codingame.com/profile/b7857c36b0f22193e90aa4a5c9e5079f9969774).
+View my [CodinGame profile](https://www.codingame.com/profile/b7857c36b0f22193e90aa4a5c9e5079f9969774).
+   
+   
+
 
 <!--
 **ileskaa/ileskaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
