@@ -28,7 +28,7 @@ You'll find below a list of projects I've worked on.
 - Work in progress: a website about the evolution of programming languages, built using PHP and PostgreSQL.
    - GitHub repo: https://github.com/ileskaa/programming-language-history
    
-#### Other
+#### Other:
 My threehouse profile: https://teamtreehouse.com/profiles/akseliingervo
 ## Python
 #### Librairies I've used the most:
