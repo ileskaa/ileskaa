@@ -1,5 +1,5 @@
 ### Welcome to my GitHub!
-I didn't learn programming at school; I taught myself to do it. That how much I love coding.
+I didn't learn programming at school; I taught myself to do it. That's how much I love coding.
    
 I currently speak the following languages:
 - Python
