@@ -17,16 +17,21 @@ You'll find below a list of projects I've worked on.
 - For Christmas 2021, I created an online advent calendar for a group of friends. The idea was to share a little something every day.   
    - Page link: https://ileskaa.github.io/advent-calendar   
    - GitHub repository link: https://github.com/ileskaa/advent-calendar
+   <img src="https://github.com/ileskaa/img/blob/main/advent%20calendar.png?raw=true" width=480>
 - I created a flashcard app that can be used to study programming concepts. Node.js, Express, and Pug were used in the process.
    - Page link: https://computing-flashcards.onrender.com
    - GitHub repo: https://github.com/ileskaa/computing-flashcards
+   <img src="https://github.com/ileskaa/img/blob/main/flashcards.png?raw=true" width=480>
 - For christmas 2022, I wrote a secret santa app for my colleagues. The idea is that everyone will randomly draw a person to whom they'll have to offer a gift while keeping their identity secret. For this project, I didn't use Express since I wanted to understand better what's happening behind the scenes. I therefore coded the backend using solely Node.js and a Redis database.
    - Page link: https://secretsantaigad.com
    - GitHub repo: https://github.com/ileskaa/secret-santa
+   <img src="https://github.com/ileskaa/img/blob/main/secret_santa.png?raw=true" width=480>
 - I contributed to the creation of the webpage of the Polanie polish folk dance group, of which I was a member while living in Luxembourg.   
    - Page link: https://polanie.lu
+   <img src="https://github.com/ileskaa/img/blob/main/polanie.png?raw=true" width=480>
 - Work in progress: a website about the evolution of programming languages, built using PHP and PostgreSQL.
    - GitHub repo: https://github.com/ileskaa/programming-language-history
+   <img src="https://github.com/ileskaa/img/blob/main/progLangHist.png?raw=true" width=480>
    
 #### Other
 My threehouse profile: https://teamtreehouse.com/profiles/akseliingervo
