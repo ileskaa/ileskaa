@@ -37,7 +37,11 @@ My threehouse profile: https://teamtreehouse.com/profiles/akseliingervo
 - scikit-learn for linear regressions, random forests, k-nearest neighbors, and support vector machines
 - Beautiful Soup for web scraping
 - what I'm currently learning: TensorFlow for neural networks
-   
+#### Kaggle competitions
+I've taken part in a few Kaggle machine learning competitions:
+- Titanic:
+   - using linear regression: https://github.com/ileskaa/titatic-linear-regression
+   - using random forests: https://github.com/ileskaa/titanic-random-forest
 #### Certifications:
 I successfuly passed the IBM data science professional certificate, which can be viewed on the "Licences and certifications" section of my LinkedIn profile: https://fi.linkedin.com/in/akseli-ingervo
 ## VBA
