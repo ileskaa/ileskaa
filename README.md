@@ -1,16 +1,15 @@
 ### Welcome to my GitHub!
-I didn't learn programming at school; I taught myself to do it. That's how much I love coding.
-   
 I currently speak the following languages:
 - Python
 - HTML, CSS, and Javascript
 - PHP
-- VBA
 - SQL
+- LaTeX
+- VBA
 
 And I'm always eager to learn new ones.
    
-You'll find below a list of projects I've worked on.
+Below are listed some projects I've worked on.
 
 ## Web development
 #### Projects I've worked on
@@ -35,6 +34,7 @@ You'll find below a list of projects I've worked on.
    
 #### Other
 My threehouse profile: https://teamtreehouse.com/profiles/akseliingervo
+
 ## Python
 #### Librairies I've used the most
 - Pandas and Numpy for data manipulation
@@ -49,6 +49,7 @@ I've taken part in a few Kaggle machine learning competitions:
    - using random forests: https://github.com/ileskaa/titanic-random-forest
 #### Certifications
 I successfuly passed the IBM data science professional certificate, which can be viewed on the "Licences and certifications" section of my LinkedIn profile: https://fi.linkedin.com/in/akseli-ingervo
+
 ## VBA
 In the context of my work as internal auditor in the financial sector, I've written many macros, including the following:
 - folder drilldowns
@@ -59,25 +60,8 @@ In the context of my work as internal auditor in the financial sector, I've writ
 - updating Excel workbooks based on CSV files
 
 ## Operating systems
-I'm currently working on Windows, but I've used Linux for several years in the past. I've played with several distros, including Ubuntu, Debian, Fedora, and Mint.
+I use Linux as my main operating system. I have used several distributions over the years, including Debian, Ubuntu, Fedora, and Kali.
+However, I am also very familiar with the windows environment. 
 
 ## Other
 View my [CodinGame profile](https://www.codingame.com/profile/b7857c36b0f22193e90aa4a5c9e5079f9969774).
-   
-   
-
-
-<!--
-**ileskaa/ileskaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
