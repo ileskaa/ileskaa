@@ -9,11 +9,11 @@ I currently speak the following languages:
 
 And I'm always eager to learn new ones.
    
-Below are listed some projects I've worked on.
+Below are listed some of my contributions.
 
 ## Web development
 #### Projects I've worked on
-- For Christmas 2021, I created an online advent calendar for a group of friends. The idea was to share a little something every day.   
+- For Christmas 2021, I created an online advent calendar for my close friends. The idea was to share a little surprise every day.
    - Page link: https://ileskaa.github.io/advent-calendar   
    - GitHub repository link: https://github.com/ileskaa/advent-calendar
    <img src="https://github.com/ileskaa/img/blob/main/advent%20calendar.png?raw=true" width=480>
@@ -61,7 +61,7 @@ In the context of my work as internal auditor in the financial sector, I've writ
 
 ## Operating systems
 I use Linux as my main operating system. I have used several distributions over the years, including Debian, Ubuntu, Fedora, and Kali.
-However, I am also very familiar with the windows environment. 
+I am also very familiar with the Windows environment. 
 
 ## Other
 View my [CodinGame profile](https://www.codingame.com/profile/b7857c36b0f22193e90aa4a5c9e5079f9969774).
