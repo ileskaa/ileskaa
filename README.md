@@ -37,7 +37,7 @@ My threehouse profile: https://teamtreehouse.com/profiles/akseliingervo
 
 ## Python
 #### Projects I've Worked on
-- Creation of a maze game using Python and its Pygame library.
+- Creation of a maze game using Python and the Pygame library.
    - GitHub repo: https://github.com/ileskaa/robo-man
    <img src="https://github.com/ileskaa/img/blob/main/robo-man.png" width=480>
 #### Librairies I've Used the Most
