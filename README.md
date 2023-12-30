@@ -39,7 +39,7 @@ My threehouse profile: https://teamtreehouse.com/profiles/akseliingervo
 #### Projects I've Worked on
 - Creation of a maze game using Python and its Pygame library.
    - GitHub repo: https://github.com/ileskaa/robo-man
-   - a
+   <img src="https://github.com/ileskaa/img/blob/main/robo-man.png" width=480>
 #### Librairies I've Used the Most
 - Pandas and Numpy for data manipulation
 - Matplotlib and Seaborn for data visualization
