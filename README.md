@@ -12,7 +12,7 @@ And I'm always eager to learn new ones.
 Below are listed some of my contributions.
 
 ## Web development
-#### Projects I've worked on
+#### Projects I've Worked on
 - Before Christmas 2022, I wrote a Secret Santa app for my colleagues. Through the app, everyone drew randomly a person to whom they offered a gift while keeping their identity secret. I coded the backend using Node.js and a Redis database. I used vanilla JavaScript for the frontend.
    - GitHub repo: https://github.com/ileskaa/secret-santa
    <img src="https://github.com/ileskaa/img/blob/main/secret_santa.png?raw=true" width=480>
@@ -36,6 +36,10 @@ Below are listed some of my contributions.
 My threehouse profile: https://teamtreehouse.com/profiles/akseliingervo
 
 ## Python
+#### Projects I've Worked on
+- Creation of a maze game using Python and its Pygame library.
+   - GitHub repo: https://github.com/ileskaa/robo-man
+   - a
 #### Librairies I've Used the Most
 - Pandas and Numpy for data manipulation
 - Matplotlib and Seaborn for data visualization
