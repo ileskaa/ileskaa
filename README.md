@@ -54,6 +54,10 @@ I've taken part in a few Kaggle machine learning competitions:
 #### Certifications
 I successfuly passed the IBM data science professional certificate, which can be viewed on the "Licences and certifications" section of my LinkedIn profile: https://fi.linkedin.com/in/akseli-ingervo
 
+## LaTeX
+My CV, written in LaTeX:  
+https://github.com/ileskaa/CV
+
 ## VBA
 In the context of my work as internal auditor in the financial sector, I've written many macros, including the following:
 - folder drilldowns
