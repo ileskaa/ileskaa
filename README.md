@@ -14,7 +14,8 @@ Below are listed some of my contributions.
 ## Web development
 #### Projects I've Worked on
 - Before Christmas 2022, I wrote a Secret Santa app for my colleagues. Through the app, everyone drew randomly a person to whom they offered a gift while keeping their identity secret. I coded the backend using Node.js and a Redis database. I used vanilla JavaScript for the frontend.
-   - GitHub repo: https://github.com/ileskaa/secret-santa
+   - Page link: https://secret-santa-igad.onrender.com/
+   - Gitlab repo: https://gitlab.com/igad/secret-santa
    <img src="https://github.com/ileskaa/img/blob/main/secret_santa.png?raw=true" width=480>
 - I contributed to the creation of the webpage of the Polanie Polish folk dance group, of which I was a member while living in Luxembourg.
    - Page link: https://polanie.lu
